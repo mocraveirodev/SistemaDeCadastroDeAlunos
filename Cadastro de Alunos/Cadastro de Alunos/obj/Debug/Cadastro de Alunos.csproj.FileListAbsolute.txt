@@ -1,0 +1,24 @@
+E:\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe.config
+E:\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe
+E:\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.pdb
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csprojResolveAssemblyReference.cache
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.frmprincipal.resources
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Properties.Resources.resources
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.GenerateResource.Cache
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.exe
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.pdb
+E:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.frmcadastrar.resources
+D:\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe.config
+D:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.exe
+D:\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe.config
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\bin\Debug\Cadastro de Alunos.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csprojAssemblyReference.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.frmcadastrar.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.frmprincipal.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro_de_Alunos.Properties.Resources.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.GenerateResource.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.csproj.CoreCompileInputs.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Cadastro de Alunos\Cadastro de Alunos\obj\Debug\Cadastro de Alunos.pdb
