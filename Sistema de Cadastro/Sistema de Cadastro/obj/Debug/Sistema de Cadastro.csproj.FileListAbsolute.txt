@@ -1,0 +1,84 @@
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.pdb
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csprojResolveAssemblyReference.cache
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmprincipal.resources
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.Properties.Resources.resources
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.GenerateResource.Cache
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadaluno.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
+C:\Users\professorcl\Desktop\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadresp.resources
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.pdb
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csprojResolveAssemblyReference.cache
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadaluno.resources
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadresp.resources
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmprincipal.resources
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.Properties.Resources.resources
+D:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.GenerateResource.Cache
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.pdb
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csprojResolveAssemblyReference.cache
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadaluno.resources
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadresp.resources
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsResp.resources
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmExcResp.resources
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmprincipal.resources
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.Properties.Resources.resources
+C:\Users\professorcl\Desktop\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.GenerateResource.Cache
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.pdb
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csprojResolveAssemblyReference.cache
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmAltResp.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadaluno.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadresp.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsResp.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsRespGeral.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmExcResp.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmprincipal.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.Properties.Resources.resources
+E:\Quarta\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.GenerateResource.Cache
+D:\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe
+D:\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.pdb
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csprojResolveAssemblyReference.cache
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmAltResp.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadaluno.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadresp.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsResp.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsRespGeral.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmExcResp.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmprincipal.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.Properties.Resources.resources
+D:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.GenerateResource.Cache
+F:\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+F:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+F:\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe.config
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\bin\Debug\Sistema de Cadastro.pdb
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csprojAssemblyReference.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmAltResp.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadaluno.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmcadresp.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsResp.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmConsRespGeral.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmExcResp.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.frmprincipal.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema_de_Cadastro.Properties.Resources.resources
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.GenerateResource.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.csproj.CoreCompileInputs.cache
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.exe
+E:\Monica\Estudos\Faculdade\4° Semestre\Linguagem de Programação Comercial\Sistema de Cadastro\Sistema de Cadastro\obj\Debug\Sistema de Cadastro.pdb
